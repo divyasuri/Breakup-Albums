@@ -1,0 +1,2 @@
+# NWMediaIndividualProject
+Access to an individual project I worked on as part of New Media 190, Machine Learning and Cultural Data, a class at UC Berkeley . I created a web-scraper that extracted a corpus of song lyrics using the Genius API and a dataset of reviews for the albums in which those songs appeared. Then, I conducted a topic model and network analysis using VOSViewer and SumUp to identify discrepancies or similarities in the ways in which those albums were formulated by the artists and perceived by critics.  
